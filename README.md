@@ -12,3 +12,5 @@ I found that if number of people is two, Is they perfer to online_order or book_
 # On this Recent dashboard I try to go throw with some mathametical sentax and using DAX for that to find some insights.
 # With this usecase I learn so many things.
 # Learn How to use Measures.
+# With this problem statement I learn how to find that solutions via Measure.
+# Learn how to visualize that Measure.
